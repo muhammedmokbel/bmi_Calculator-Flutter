@@ -8,6 +8,8 @@ const kActiveTrackColor = Color(0xffe83d66);
 const kInactiveTrackColor = Color(0xffffffff);
 const kThumbColor = Color(0xffe83d66);
 const kOverlayColor = Color(0x29e83d66);
+const kBottomActionColor = Color(0xFFEB1555);
+const kRoundFillColor = Color(0xff5d5f6e);
 
 enum Gender { male, female, other }
 

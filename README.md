@@ -86,7 +86,7 @@ class Roundediconbutton extends StatelessWidget {
         height: 48,
       ),
       child: buttonIcon,
-      fillColor: Color(0xff5d5f6e),
+      fillColor: kRoundFillColor,
       shape: RoundedRectangleBorder(
         borderRadius: BorderRadius.circular(24),
       ),

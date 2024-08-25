@@ -1,3 +1,4 @@
+import 'package:bmi_calculator_muhammed_mokbel/constants.dart';
 import 'package:flutter/material.dart';
 
 class BottomAction extends StatelessWidget {
@@ -14,7 +15,7 @@ class BottomAction extends StatelessWidget {
           child: GestureDetector(
             onTap: onTap,
             child: Container(
-              color: Color(0xFFEB1555),
+              color: kBottomActionColor,
               child: Center(
                 child: Text(
                   buttonText.toUpperCase(),
