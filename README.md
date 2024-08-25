@@ -25,26 +25,28 @@ A simple and efficient BMI (Body Mass Index) calculator built using Flutter. The
 lib/
 │
 ├── components/          # Custom widgets and reusable components
-│   ├── custom_button.dart
-│   └── custom_text_field.dart
+│   ├── bmiCard.dart
+│   └── bmiCardItem.dart
+|   └── bottomAction.dart
+|   └── roundedIconButton.dart
 │
 ├── screens/             # Screen-specific UI and logic
-│   ├── input_screen.dart
-│   └── result_screen.dart
-│
-├── constants.dart       # Styling constants (colors, text styles, etc.)
-└── main.dart            # Entry point of the app
+│   ├── bmiInput.dart
+│   └── bmiResults.dart
+├── calculator_brain.dart   # Handling all logic related to calculation of BMI value
+├── constants.dart          # Styling constants (colors, text styles, etc.)
+└── main.dart               # Entry point of the app
 ```
 
 ## Installation
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/bmi-calculator.git
+   git clone https://github.com/muhammedmokbel/bmi_Calculator-Flutter.git
 
 2. **Navigate to the project directory**:
    ```bash
-   cd bmi-calculator
+   cd bmi_Calculator-Flutter
    
 3. **Install dependencies**:
    ```bash
