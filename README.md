@@ -34,6 +34,7 @@ lib/
 │
 ├── constants.dart       # Styling constants (colors, text styles, etc.)
 └── main.dart            # Entry point of the app
+```
 
 ## Installation
 
@@ -90,6 +91,7 @@ class Roundediconbutton extends StatelessWidget {
     );
   }
 }
+```
 
 
 ## How the App Works
