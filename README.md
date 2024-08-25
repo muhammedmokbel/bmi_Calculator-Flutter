@@ -1,7 +1,7 @@
 # BMI Calculator (Flutter)
 
 A simple and efficient BMI (Body Mass Index) calculator built using Flutter. The app consists of two main screens: an **Input Screen** for gathering user data and a **Result Screen** to display the calculated BMI value and its corresponding category.
-the design inspired by the beautiful designs made by Ruben Vaalt.
+the beautiful designs inspired made by Ruben Vaalt.
 ## Features
 
 - **Two-screen navigation**:
